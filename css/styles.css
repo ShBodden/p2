@@ -1,0 +1,27 @@
+.password {
+    text-align:center;
+    font-size:3rem;
+    color:#ff0000;
+    font-family: ‘Arial Black’, Gadget, sans-serif;
+
+    display:inline-block;
+    padding:15px;
+    font-weight:800;
+}
+
+#wordtotal {
+    width:22px;
+    display:inline-block;
+}
+
+.details {
+    margin-top:25px;
+    display:inline-block;
+}
+
+.error {
+    text-align:center;
+    height:20px;
+    color:purple;
+    padding:5px;
+}
