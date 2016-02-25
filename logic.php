@@ -124,7 +124,7 @@ if (isset($_GET['add_number']))
 {
 
    $random_number = add_num_symb($rand_nums);
-   $password .= $seperator . $random_number;
+   $password .= $seperator_char . $random_number;
 
 }
 if (isset($_GET['add_symbol']))
@@ -132,7 +132,7 @@ if (isset($_GET['add_symbol']))
 {
 
    $random_symbol = add_num_symb($symbols);
-   $password .= $seperator . $random_symbol;
+   $password .= $seperator_char . $random_symbol;
 
 
 }

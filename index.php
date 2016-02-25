@@ -58,8 +58,9 @@
             <div class='error'><?=$error?></div>
           </div>
           <br>
-
-
+					<a href="http://xkcd.com/936/">
+            <img class="img" src="img/xkcd.png" alt="xkcd comic">
+          </a>
         </form>
 
     </div>
